@@ -10,8 +10,8 @@ Your job is to analyze clients' behavior and determine which prepaid plan brings
 ## Description of the plans
 
 `Megaline rounds seconds up to minutes, and megabytes to gigabytes. For calls, each individual call is rounded up: even if the call lasted just one second,
-it will be counted as one minute. For web traffic, individual web sessions are not rounded up.<br> Instead, the total for the month is rounded up.<br>
-If someone uses 1025 megabytes this month, they will be charged for 2 gigabytes.`
+it will be counted as one minute. For web traffic, individual web sessions are not rounded up.' <br> 'Instead, the total for the month is rounded up.' <br>
+'If someone uses 1025 megabytes this month, they will be charged for 2 gigabytes.`
 
 #### `Surf` <br>
 
